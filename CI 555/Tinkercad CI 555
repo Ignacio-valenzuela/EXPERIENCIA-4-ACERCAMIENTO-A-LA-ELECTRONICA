@@ -1,0 +1,11 @@
+Este ejemplo consta de una batería de 9V, dos Led, cuatro resistencias, un condensador y el CI 555. La finalidad es que las luces LED se activen como un semáforo, 
+las conclusiones que se pueden sacar son:
+-	El Circuito Integrado 555 funciona como un temporizador.
+-	Las resistencias y el condensador hacen variar la frecuencia.
+-	Para este sistema no es necesario el uso de Arduino.
+-	No tiene código, ya que el funcionamiento está dado por el arreglo electrónico del circuito.
+-	El circuito trabaja siempre del mismo modo.
+-	El parpadeo de las luces LED se puedo hacer con intervalos a gusto del operario por medio del cálculo de la ganancia. 
+
+Link:
+https://www.tinkercad.com/things/4RiZqbOQ0pz
