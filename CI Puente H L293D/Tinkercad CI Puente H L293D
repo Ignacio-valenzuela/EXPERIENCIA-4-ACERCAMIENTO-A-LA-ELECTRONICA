@@ -1,0 +1,11 @@
+Ejemplo Puente H L293D.
+Este ejemplo consta de una batería de 9V, un motor, un Arduino y un Puente H L293D. La finalidad es que el motor funcione en dos sentidos, las conclusiones que se pueden sacar son:
+-	El Puente H L293D funciona como intercambiador del sentido del motor.
+-	Este sistema a diferencia de los dos ejemplos anteriores utiliza Arduino.
+-	El ejemplo lleva consigo una batería de 9V, pero Arduino genera 5V, por lo tanto al estar en serie, la corriente total utilizada es de 14V
+-	Nuevamente a diferencia de los dos ejemplos anteriores tiene un código asociado.
+-	En el ejemplo se puede creer que los sistemas son binarios, pero en la realidad esto no es verdad.
+-	Los sentidos del motor vienen dados en el código, con la combinación de comandos “HIGH” y “LOW”, a continuación se deja el significado de estas combinaciones.
+
+Link:
+https://www.tinkercad.com/things/fPVu3fIaWSL
