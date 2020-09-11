@@ -1,0 +1,8 @@
+Este CI incluye cuatro circuitos para manejar cargas de potencia media, en especial pequeños motores y cargas inductivas, 
+con la capacidad de controlar corriente hasta 600 mA en cada circuito y una tensión entre 4,5 V a 36 V.
+
+Los circuitos individuales se pueden usar de manera independiente para controlar cargas de todo tipo y, en el caso de ser motores, manejar un único sentido de giro. 
+Pero además, cualquiera de estos cuatro circuitos sirve para configurar la mitad de un puente H.
+
+El integrado permite formar, entonces, dos puentes H completos, con los que se puede realizar el manejo de dos motores. 
+
