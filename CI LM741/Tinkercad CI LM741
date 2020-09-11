@@ -1,0 +1,14 @@
+Ejemplo Circuito Integrado LM741.
+El ejemplo consta de una batería de 9V, un LED, tres resistencias, un potenciómetro, dos pantallas LCD y un CI LM741. 
+La finalidad es que la luz LED indique si pasa corriente y la visualización de la misma por medio de las pantallas LCD, las conclusiones que se pueden sacar son:
+-	El Circuito Integrado LM741 funciona como un amplificador.
+-	El potenciómetro funciona como resistencia de la corriente que regula su paso de 0 a 9V
+-	Para este sistema no es necesario el uso de Arduino.
+-	No tiene código, ya que el funcionamiento está dado por el arreglo electrónico del circuito.
+-	El parpadeo de las luces LED se puedo hacer con intervalos a gusto del operario por medio del cálculo de la ganancia. 
+-	Se modificó la resistencia de la luz LED de 500 Ohm a 580 Ohm (explicado más adelante).
+-	Algunas aplicaciones que podría tener son: parlantes, altavoces, amplificar alimentación, entre otros
+-	Tiene la desventaja de tener una sola pieza, lo cual puede generar un corto circuito si se alimenta mal, en el caso de querer evitar esto, es preferible un relé. 
+
+Link:
+https://www.tinkercad.com/things/jYR8VXKYzvs
