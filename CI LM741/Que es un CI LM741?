@@ -1,0 +1,7 @@
+El LM741 es un amplificador operacional de propósito general que cuenta con un rendimiento mejorado sobre los estándares de la industria. 
+Ofrece muchas características que hacen que su aplicación sea casi a prueba de protección de sobrecarga en la entrada y la salida, 
+ausencia de enclavamiento cuando se excede el rango de modo común y libre de oscilaciones. Sus características son:
+-	Impedancia de entrada del orden de 1 MW.
+-	Impedancia de salida del orden de 150 W.
+-	Tensión máxima de alimentación de ±Vcc = ± 18 V. 
+-	Alta ganancia de tensión en lazo abierto. 
